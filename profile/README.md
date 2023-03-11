@@ -1,5 +1,6 @@
 # Welcome to Blinkit! 👋👨‍💼👩‍💼
 
+![blinkit logo](../images/blinkit-banner.jpeg)
 
 Hello! We are Blinkit, a technology services company based in [Argentina]. We pride ourselves on providing high-quality solutions and exceptional customer service. 🌟🚀💻
 
