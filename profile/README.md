@@ -1,7 +1,7 @@
 # Welcome to Blinkit! 👋👨‍💼👩‍💼
 
 
-Hello! We are Blinkit, a technology services company based in [city/country]. We pride ourselves on providing high-quality solutions and exceptional customer service. 🌟🚀💻
+Hello! We are Blinkit, a technology services company based in [Argentina]. We pride ourselves on providing high-quality solutions and exceptional customer service. 🌟🚀💻
 
 ---
 
@@ -22,4 +22,4 @@ At Blinkit, we are always looking for new talent to join our team. If you are an
 Thank you for visiting our GitHub page! We look forward to working with you soon. 👏👨‍💼👩‍💼💼
 
 # Contact us 📞📧📱
-You can contact us through our email (info@blinkit.com) or through our social media (LinkedIn, Twitter, Facebook). We are looking forward to hearing from you! 🤝👋💬
+You can contact us through our email (hello@blinkit.com) or through our social media (LinkedIn, Twitter). We are looking forward to hearing from you! 🤝👋💬
